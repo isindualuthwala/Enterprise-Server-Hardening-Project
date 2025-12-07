@@ -1,5 +1,4 @@
 # Enterprise-Server-Hardening-Project
-# Enterprise Server Hardening Project
 
 **Module:** IE3062 - Data and Operating Systems Security
 **Topic:** Secure Infrastructure Implementation (OS, Database, Big Data)
