@@ -37,4 +37,11 @@ Selected Oracle Linux for its enterprise optimization and RHEL compatibility
 ### 3. Big Data Security Analysis
 Included a theoretical analysis of security challenges in Big Data environments.
 * **Threat Modeling:** Analyzed SQL Injection, Ransomware, and Inference attacks
-* **Mitigation Strategies:** Proposed differential privacy, input validation, and redundant infrastructure for DoS protection. 
+* **Mitigation Strategies:** Proposed differential privacy, input validation, and redundant infrastructure for DoS protection.
+
+## 👥 Contributors (Group Members)
+This project was collaboratively developed by the following members 
+* **A. A. I. Nethmika** - `IT23209534`
+* **W. V. A. Mendis** - `IT23236028`
+* **Y. Y. Dissanayake** - `IT23238794`
+* **C. L. D. Jayawardhana** - `IT23325296`
